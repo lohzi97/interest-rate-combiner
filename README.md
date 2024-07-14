@@ -15,7 +15,7 @@ Setup
 1. Clone the repo
 
    ```
-   git clone 
+   git clone https://github.com/lohzi97/interest-rate-combiner.git
    ```
 
 2. Install dependencies
@@ -43,4 +43,3 @@ Usage
 3. The combined interest rate csv will be located in `path/to/folder/containing/interest-rate-csv` with `Interest Rates.csv` as filename.
 
    ![interest-rate-output-sample.png](./assets/interest-rate-output-sample.png)
-   
